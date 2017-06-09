@@ -1,0 +1,1 @@
+This file is placed just for keeping this directory under version control.
